@@ -84,6 +84,11 @@ sudo apt install ros-humble-nav2-map-server
 sudo apt install ros-humble-nav2-behavior-tree
 ```
 
+### Install STVL (Spatio-Temporal Voxel Layer) 3D layer
+```bash
+sudo apt install ros-humble-spatio-temporal-voxel-layer
+```
+
 ### Change Config
 
 - Open the file:
